@@ -1,7 +1,6 @@
 ---
-date: "2020-02-02T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 external_link: ""
-featured: false
 image:
   caption: 'Image credit: [Alex Stoen](https://www.flickr.com/photos/alexstoen/49056176871/sizes/c/)'
   focal_point: Smart
@@ -9,15 +8,14 @@ links:
 - icon: researchgate
   icon_pack: fab
   name: Follow
-  url: https://www.researchgate.net/publication/341867872_Meritocratic_Narratives_as_Cultural_Orientations_Explaining_Child-Rearing_Practices_in_China
+  url: https://www.researchgate.net/profile/Francisco_Olivos
 #slides: example
-summary: This study is aimed to test the legitimiation and motivation hypotheses of culture simultaneously in the case of the Chinese educational system regarding meritocratic beliefs. How do parents’ meritocratic beliefs and children’s educational performance are affected by each other? 
+summary: We aim to determine whether parents’ meritocratic beliefs affect their parenting style with regard to children’s education and learning.
 tags:
 - Papers
-title: Meritocratic Narratives as Cultural Orientations
-subtitle: Explaining Child-Rearing Practices in China
+title: Meritocratic Narratives as Cultural Orientations: Explaining Child-Rearing Practices in China
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.researchgate.net/publication/341867872_Meritocratic_Narratives_as_Cultural_Orientations_Explaining_Child-Rearing_Practices_in_China"
 url_slides: ""
 url_video: ""
 ---

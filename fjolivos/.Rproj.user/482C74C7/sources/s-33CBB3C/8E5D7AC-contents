@@ -26,7 +26,7 @@ ECLforR$F1B<- as.numeric(ECLforR$F1B)
 is.numeric(ECLforR$F1B)
 
 f <- cbind(B1A, B1B, C1, D1, E1A, E1B, F1A, F1B)~1
-read.lc <- poLCA(f,ECLforR,nclass=3, na.rm = TRUE,  maxiter = 3000, nrep=10, graphs = TRUE)
+read.lc <- poLCA(f,ECLforR,nclass=2, na.rm = TRUE,  maxiter = 3000, nrep=10, graphs = TRUE)
 
 #Binded to the original data
 
@@ -53,18 +53,7 @@ ECLforRLong$eduf3<-as.factor(ECLforRLong$eduf3)
 is.factor(ECLforRLong$edu3)
 is.factor(ECLforRLong$eduf3)
 
-classMobility <- gnm(count ~ class2 + class2:(gender + hincome + occ2) + Dref(eduf3, edu3),
+classMobility <- gnm(count ~ class2 + class2:(gender + hincome + occ2) + Dref(eduf3, edu3, delta = ~ 1 + class2),
                       eliminate = id, family = "poisson", data = ECLforRLong)
 classMobility
 
-classMobility <- gnm(count ~ class2 + class2:(gender + hincome + occ2) + Dref(eduf3, edu3, delta = ~ 1 + class2),
-                     eliminate = id, family = "poisson", data = ECLforRLong)
-
-m1 <- gnm(count ~ Dref(cat:eduf3, cat:edu3,
-                       delta = ~ -1 + cat),
-          eliminate = id,
-          constrain = c("(delta1)|(catI)|(I:)"),
-          family = poisson,
-          data = ECLforRLong)
-summary(m1)
-DrefWeights(m1)
