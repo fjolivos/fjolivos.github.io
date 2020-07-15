@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD candidate
 
 
 # Short bio (displayed in user profile at end of posts)
