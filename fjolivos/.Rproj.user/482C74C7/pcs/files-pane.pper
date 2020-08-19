@@ -1,9 +1,9 @@
 {
-    "path" : "~/GitHub/fjolivos.github.io/fjolivos",
-    "sortOrder" : [
+    "path": "~/GitHub/fjolivos.github.io/fjolivos",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "ascending": true,
+            "columnIndex": 2
         }
     ]
 }
