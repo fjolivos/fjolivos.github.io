@@ -12,7 +12,7 @@ links:
 #slides: example
 summary: This project uses novel computational methods, by combining automated text analysis of Twitter messages and online factorial experiments, to examine the public discourse about older adults and "open the black box" of aging stereotypes. 
 tags:
-- Papers
+- Projects
 title: Ageism under the COVID-19 pandemic and its cross-cultural variations
 subtitle: A computational social science approach
 url_code: ""
