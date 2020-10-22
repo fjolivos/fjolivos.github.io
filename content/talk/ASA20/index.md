@@ -23,7 +23,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: Francisco Olivos'
+  caption: 'Image credit: American Sociological Association'
   focal_point: Right
 
 links:
