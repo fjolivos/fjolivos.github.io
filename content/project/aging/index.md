@@ -38,8 +38,10 @@ Study 2 relies on psychological and sociological rationales to "open the black b
 (individualism in the United States and collectivism in China), we will use an online factorial survey to experimentally manipulate cultural, social, economic, and physical elements and estimate their contributions to aging stereotypes formation, and how this process varies across individuals when considering agentic/communal values. With this study, the association between individual values and aging stereotype is examined through the lens of social psychology; moreover, cultural sociology provides insights to understand how beliefs about certain groups are formed and shaped by cultural values as rule-alike-structures. Using a factorial survey approach, we aim to provide further evidence in understanding how different elements suggested by study 1 are combined to
 explain stereotypes toward older people. In addition, we also move forward the literatures by incorporating the agentic and communal individual values into the understanding of how older age groups are represented in the social media discourse in times of COVID-19.
 
-**Colaborators**
+**Collaborators**
 
-*Chunyan May*, Department of Psychology, The Chinese University of Hong Kong
-*Xuqian Chen*, Department of Psychology, The Chinese University of Hong Kong
-*Chen Dan*, Department of Sociology, The Chinese University of Hong Kong
+*Chunyan May*, Department of Psychology, The Chinese University of Hong Kong. 
+
+*Xuqian Chen*, Department of Psychology, The Chinese University of Hong Kong.
+
+*Chen Dan*, Department of Sociology, The Chinese University of Hong Kong.
