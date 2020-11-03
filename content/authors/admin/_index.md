@@ -14,11 +14,12 @@ role: PhD candidate
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include sociology of culture, sociology of education and quantitative methods.
+bio: My research interests include cultural sociology, social inequality, sociology of education and quantitative methods.
 
 interests:
 - Sociology of Education
 - Cultural Sociology
+- Social inequality
 - Quantitative Methods
 
 education:
@@ -67,6 +68,6 @@ social:
 #- Visitors
 ---
 
-I’m a sociological wanderer. I’m proud of saying that I have studied in three cultures. They define not only what I am as a researcher, but also as a person.  In Chile I discovered the passion for what I am doing and I got a strong background on quantitative methods. In the Netherlands I understood the relevance of the theory for social research and methods theoretically driven as the way for doing high impact research. Today, my intellectual, social and cultural challenge is Hong Kong, where Western and Eastern scholastic traditions meet. The credibility of quantitative analyses is the new ingredient as well as the ambition to produce cutting-edge knowledge.
+I’m a sociological wanderer. I’m proud of saying that I have studied in three cultures. They define not only what I am as a researcher, but also as a person.  In Chile I discovered the passion for what I am doing and I got a strong background on quantitative methods. In the Netherlands I understood the relevance of the theory for social research and methods theoretically driven as the way for doing high impact research. Today, my intellectual, social and cultural environment is Hong Kong, where Western and Eastern scholastic traditions meet. The credibility of quantitative analyses is the new ingredient as well as the ambition to produce cutting-edge knowledge.
 
 

@@ -55,8 +55,7 @@ phone = "+852 39436625"
 address = "Sino Building Room 424, The Chinese University of Hong Kong, Shatin, New territories, Hong Kong SAR"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Every day 10:00 to 18:00"""
+office_hours = """Monday to Friday 10:00 to 13:00<br>"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
