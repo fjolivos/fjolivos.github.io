@@ -23,7 +23,11 @@ abstract: The aim of this study is to understand the effect of asymmetric social
 summary: The aim of this study is to understand the effect of asymmetric social comparison on subjective well-being, and how it differs due to reciprocity.
 
 tags:
-- Source Themes
+- Subjective well-being
+- Social networks
+- Social comparison
+- Chile
+
 featured: false
 
 # links:

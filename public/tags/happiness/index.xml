@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Happiness on Francisco Olivos</title>
+    <link>/tags/happiness/</link>
+    <description>Recent content in Happiness on Francisco Olivos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/happiness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Untangling Causal Beliefs</title>
+      <link>/publication/poetics/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/poetics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

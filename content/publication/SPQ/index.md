@@ -1,5 +1,6 @@
 ---
-title: "Motivation, Legitimation, or Both? Reciprocal Effects of Parental Meritocratic Beliefs and Children’s Educational Performance in China"
+title: "Motivation, Legitimation, or Both?"
+subtitle: "Reciprocal Effects of Parental Meritocratic Beliefs and Children’s Educational Performance in China"
 authors:
 - Francisco Olivos
 
@@ -22,7 +23,12 @@ abstract: Different research traditions have long held that parental beliefs mot
 summary: Parental meritocratic beliefs do not affect children’s educational performance but, rather, meritocratic beliefs are affected by academic results, suggesting their justificatory role.
 
 tags:
-- Source Themes
+- Cultural sociology
+- China
+- Education 
+- Structural equation modeling
+- Metritocratic beliefs
+
 featured: false
 
 # links:

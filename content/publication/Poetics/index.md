@@ -22,7 +22,11 @@ abstract: After two decades of research, the evidence in cross-cultural studies 
 summary: In this article, I documented a folk theory of happiness beliefs for the Chilean case. Using factorial surveys, I estimated (a) causal beliefs of happiness, (b) the contingency of the belief about income upon other domains, and (c) the heterogeneity of these beliefs when considering respondents’ experience on these dimensions.
 
 tags:
-- Source Themes
+- Causal beliefs
+- Happiness
+- Factorial surveys
+- Chile
+
 featured: false
 
 # links:

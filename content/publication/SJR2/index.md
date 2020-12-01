@@ -25,7 +25,12 @@ abstract: In this article, we explore the associations of people’s valuations 
 summary: In this article, we explore the associations of people’s valuations of universal healthcare with risk exposure and humanitarianism across diverse institutional contexts.
 
 tags:
-- Source Themes
+- Universal healthcare
+- Risk
+- Humanitarianism
+- Comparative research
+- ISSP
+
 featured: false
 
 # links:
