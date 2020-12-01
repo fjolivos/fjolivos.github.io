@@ -129,11 +129,29 @@
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <title>Chinese diaspora</title>
+      <link>/tags/chinese-diaspora/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/source-themes/</guid>
+      <guid>/tags/chinese-diaspora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-ethnic exploitation</title>
+      <link>/tags/co-ethnic-exploitation/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/co-ethnic-exploitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migration</title>
+      <link>/tags/migration/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/migration/</guid>
       <description></description>
     </item>
     
@@ -188,6 +206,33 @@
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/universal-healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factorial survey</title>
+      <link>/tags/factorial-survey/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/factorial-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pensions</title>
+      <link>/tags/pensions/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Justice</title>
+      <link>/tags/social-justice/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/social-justice/</guid>
       <description></description>
     </item>
     

@@ -25,7 +25,11 @@ summary: We ask why Chinese employees allow themselves to be exploited by their 
 
 
 tags:
-- Source Themes
+- Co-ethnic exploitation
+- Chinese diaspora
+- Migration
+- Chile
+
 featured: false
 
 # links:

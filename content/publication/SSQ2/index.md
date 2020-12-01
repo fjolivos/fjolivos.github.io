@@ -24,7 +24,11 @@ abstract: This study analyzes which characteristics of pension recipients are ta
 summary: Findings indicate that although there is a consensual demand for larger pensions, it is still believed that pensions should be allocated primarily based on individual achievement.
 
 tags:
-- Source Themes
+- Social Justice
+- Pensions
+- Chile
+- Factorial survey
+
 featured: false
 
 # links:
