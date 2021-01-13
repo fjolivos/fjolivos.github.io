@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Francisco Olivos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Papers</title>
+      <link>/tags/papers/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/papers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>China</title>
@@ -53,15 +62,6 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/structural-equation-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Papers</title>
-      <link>/tags/papers/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/papers/</guid>
       <description></description>
     </item>
     

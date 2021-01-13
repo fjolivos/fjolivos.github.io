@@ -6,10 +6,34 @@
     <description>Recent content in Papers on Francisco Olivos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/papers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uncovering the Heterogeneity of Cultural Capital Effect on Cognitive Skills using Tree-Based Machine Learning</title>
+      <link>/project/machine/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/machine/</guid>
+      <description>&lt;p&gt;Human and cultural capital approaches are suggested as two explanations of educational achievement. The first approach maintains that certain cognitive abilities or technical skills are the most important determinants of success in the educational system. In the cultural capital approach, students&amp;rsquo; outcomes are mainly affected by a set of subtle cultural conventions. However, scholars argue that cognitive performance is also one of the pathways linking cultural capital and school success (Breinholt and J?ger 2020; Hu and Wu 2019). Different cultural capital dimensions foster the development of cognitive skills and abilities, having crucial consequences throughout the life course. Thus, the analytical distinction between cultural capital and cognitive skills, and their relationship, are of primary importance.&lt;/p&gt;
+
+&lt;p&gt;Although the relationship between cultural capital and cognitive skills has been studied for Western countries (e.g., Coulangeon, 2018; Graaf, Graaf, &amp;amp; Kraaykamp, 2000; Kisida, Greene, &amp;amp; Bowen, 2014), it has been less examined in China&amp;rsquo;s case (an exception is Hu &amp;amp; Wu, 2019). Previous studies in other East Asian countries -characterized by exam-oriented educational systems where performance depends heavily on the mastery of basic subjects- suggest that cultural capital operates primarily by enhancing students&amp;rsquo; cognitive skills (Yamamoto and Brinton 2010). We contribute to this literature by discussing whether the effect of cultural capital on cognitive skills may depend on the school context and resources. Students bring unequal degrees of cultural capital to school, where differences are amplified or ameliorated by school characteristics (Marteleto and Andrade 2014). Thus, empirical evidence has suggested that school resources are important for converting cultural capital into educational achievement. School resources could include facilities, teachers&amp;rsquo; training, class size, school socioeconomic composition, and student-teacher ratio, among others.&lt;/p&gt;
+
+&lt;p&gt;This proposed article applies a novel computational method to address this sociological question in Chinese society: Tree-based machine learning. Causal trees are a data-driven computational method to explore sources of effect heterogeneity. Although machine learning (ML) tools have &amp;ldquo;yet to have its watershed moment within sociology&amp;rdquo; (Edelmann et al. 2020:73), they could provide solutions to long-standing sociological problems (Molina and Garip 2019). &amp;ldquo;Causal trees&amp;rdquo; are a specific ML method (Athey and Imbens 2016; Brand et al., forthcoming) to uncover population heterogeneity in observational data and more transparently depict the analyses that lead to a focus on particular subgroups (Brand et al., forthcoming). This method enables us to identify sources of variation that sociologists may not have previously considered or envisaged. To illustrate the causal tree algorithm&amp;rsquo;s sociological utility, we examine how school context shapes the cultural capital effect on cognitive skills in China. Besides the methodological contribution, the study addresses two substantive research questions: Does cultural capital increases students&amp;rsquo; cognitive skills? Does the effect of cultural capital on cognitive skills vary by school resources?&lt;/p&gt;
+
+&lt;p&gt;Our analysis will proceed as follows. First, we will report descriptive statistics of the key explanatory variables and covariates. Second, we will estimate the average effect of cultural capital on cognitive skills using covariate balancing propensity score for a continuous treatment (Fong, Hazlett, and Imai 2018). Third, we will examine the heterogeneous effects of cultural capital on cognitive skills for defined subgroups using CBPS and causal forest. In the CBPS, theoretically motivated covariates affecting both cultural capital and cognitive development. Fourth, we will assess the heterogeneous effects for subgroups identified by the selected causal tree. Although the literature suggests the relevance of school-level variables, we do not which particular characteristics or resources interact substantively with cultural capital. Finally, the sensitivity of partition-specific effect estimates to unobserved confounding will be evaluated.&lt;/p&gt;
+
+&lt;p&gt;To study our questions, we will use the China Educational Panel Survey (CEPS). It is a unique longitudinal dataset that provides a rich set of cultural capital measurements in tandem with a cognitive skills test for a representative sample of middle-school students surveyed in 7th and 8th grades. We propose a 9-item Cultural Capital Index using an IRT GRM model to capture cultural capital as a latent variable. It combines three important dimensions suggested by previous studies (J?ger and Karlson 2018): familiarity with the legitimate culture, reading behavior, and extracurricular activities. In CEPS, cognitive skills are measured based on a test assessing students&amp;rsquo; aptitudes over 22 items on reasoning and problem-solving (Zhao et al. 2017). The test is unrelated to the school curriculum. To facilitate the comparability across students, scores were estimated using an item response theory model and z-scores. For assessing the heterogeneity of the cultural capital effect, a large set of theoretically relevant indicators of school quality and resources will be included.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coauthor&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Pablo Geraldo&lt;/em&gt;, University of California, Los Angeles.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Jiahiu Xu&lt;/em&gt;, The Pennsylvania State University.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pride and Protest</title>
